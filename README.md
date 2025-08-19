@@ -1,10 +1,12 @@
 # Gradient Descent
-Implementing Gradient Descent algorithm to classify an iris dataset 
 
-<img width="420" height="504" alt="image" src="https://github.com/user-attachments/assets/36149ffe-df2a-4acb-add2-074b2076b981" />
 
 
 This project implements the Adaptive Linear Neuron (Adaline) algorithm from scratch using Python and NumPy. Adaline is an early type of artificial neuron that uses gradient descent to minimize a cost function and serves as a fundamental building block for understanding more complex neural networks.
+
+
+<img width="420" height="504" alt="image" src="https://github.com/user-attachments/assets/36149ffe-df2a-4acb-add2-074b2076b981" />
+
 
 # Key Features
 
