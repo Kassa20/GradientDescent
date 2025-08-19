@@ -4,7 +4,8 @@ Implementing Gradient Descent algorithm to classify an iris dataset
 <img width="420" height="504" alt="image" src="https://github.com/user-attachments/assets/36149ffe-df2a-4acb-add2-074b2076b981" />
 
 
-Source:
+# Credits
+
 Machine Learning with PyTorch and Scikit-Learn
 Sebastian Raschka, Yuxi (Hayden) Liu, Vahid Mirjalili
 
