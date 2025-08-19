@@ -1,2 +1,2 @@
 # Gradient Descent
-Implementing Gradient ML algorithm to classify iris dataset 
+Implementing Gradient Descent algorithm to classify an iris dataset 
